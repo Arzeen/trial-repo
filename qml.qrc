@@ -1,0 +1,14 @@
+<RCC version="1.0">
+    <!-- Define resources with prefix "/images" -->
+    <qresource prefix="/images">
+        <file alias="flame.png">UI/Assets/flame.png</file>
+	<file alias="gear.png">UI/Assets/gear.png</file>
+	<file alias="snowflake.png">UI/Assets/snowflake.png</file>
+	<file alias="info.png">UI/Assets/info.png</file>
+	<file alias="calendar.png">UI/Assets/calendar.png</file>
+	<file alias="auto.png">UI/Assets/auto.png</file>
+	<file alias="wi-fi.png">UI/Assets/wi-fi.png</file>
+	<file alias="thermometer.png">UI/Assets/thermometer.png</file>	
+	<file alias="left.png">UI/Assets/left.png</file>
+    </qresource>
+</RCC>
